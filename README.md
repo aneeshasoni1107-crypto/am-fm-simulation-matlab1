@@ -30,7 +30,7 @@ This project simulates **Amplitude Modulation (AM)** and **Frequency Modulation 
 ![Frequency Domain](https://github.com/aneeshasoni1107-crypto/am-fm-simulation-matlab1/blob/main/frequency_domain_signals.png)
 
 ### Demodulated Signals
-![Demodulated](screenshots/demodulated_signals.png)
+![Demodulated](https://github.com/aneeshasoni1107-crypto/am-fm-simulation-matlab1/blob/main/time_domain_signals.png)
 
 
 
