@@ -21,6 +21,17 @@ This project simulates **Amplitude Modulation (AM)** and **Frequency Modulation 
 
 - `modulation_simulation.m` – Main MATLAB script
 - `demodulation_simulation.m`- Main MATLAB script
+## 📊 Simulation Outputs
+
+### Time Domain Signals
+![Time Domain](screenshots/time_domain_signals.png)
+
+### Frequency Domain Signals
+![Frequency Domain](screenshots/frequency_domain_signals.png)
+
+### Demodulated Signals
+![Demodulated](screenshots/demodulated_signals.png)
+
 
 
 ## ✅ How to Run
