@@ -17,20 +17,16 @@ This project simulates **Amplitude Modulation (AM)** and **Frequency Modulation 
 - Signal Processing
 - FFT, Butterworth filter, Hilbert transform
 
-## 📈 Output Snapshots
-
-*(Add your own screenshots here if possible)*
-
 ## 📁 Files
 
-- `modulation_demodulation.m` – Main MATLAB script
-- `screenshot1.png` – Time-domain signals
-- `screenshot2.png` – Frequency-domain plots (optional)
+- `modulation_simulation.m` – Main MATLAB script
+- `demodulation_simulation.m`- Main MATLAB script
+
 
 ## ✅ How to Run
 
 1. Open MATLAB or MATLAB Online.
-2. Paste the code in a new script file (e.g., `modulation_demodulation.m`).
+2. Paste the code in a new script file.
 3. Run the script to see all outputs.
 
 ## 📚 Learnings
@@ -39,6 +35,3 @@ This project simulates **Amplitude Modulation (AM)** and **Frequency Modulation 
 - Frequency-domain analysis using FFT
 - Demodulation techniques in analog communication
 
-## 🔗 Connect
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com) for more projects and collaboration!
